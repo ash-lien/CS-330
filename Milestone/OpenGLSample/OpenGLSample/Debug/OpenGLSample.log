@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(635,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(664,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(665,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(672,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(673,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(680,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(681,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(688,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(689,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(697,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(698,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(834,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(460,12): warning C4101: 'model': unreferenced local variable
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(461,8): warning C4101: 'angle': unreferenced local variable
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(914,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(915,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(919,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(920,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(921,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(922,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ashle\Desktop\Milestone\OpenGLSample\OpenGLSample\Source.cpp(931,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\Ashle\Desktop\Milestone\OpenGLSample\Debug\OpenGLSample.exe
